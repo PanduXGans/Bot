@@ -1,6 +1,6 @@
 /**
-   * Create By THE JO BOT
-   * Base by Dika Ardnt
+   * Create By SansXploit
+   * Base by Pandu
 */
 
 const fs = require('fs')
@@ -45,7 +45,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 999
 }
-global.thumb = fs.readFileSync('.jo.jpg')
+global.thumb = fs.readFileSync('jo.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 
 let file = require.resolve(__filename)
